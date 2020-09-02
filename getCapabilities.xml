@@ -137,7 +137,7 @@
 				<Title>phylogenetic_composition</Title>
 				<Abstract>GH:phylogenetic_composition ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸tif˸˸˸//github.com/asfixia/calc/releases/download/Map_Download/phylogenetic_composition.zip˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸tif˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-75.19817340111615" miny="-16.513032135182556" maxx="-42.86199880506803" maxy="6.614341440751383"></LatLonBoundingBox>
